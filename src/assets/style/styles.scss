@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Orbitron', 'Arial', sans-serif;
+    background-color: #0a0a0a;
+    color: #fff;
+}
+
+h1,
+h2 {
+    color: gold;
+    text-shadow: 1px 1px #000;
+}
+
+a {
+    text-decoration: none;
+    color: #ccc;
+    transition: color 0.3s;
+}
+
+a:hover {
+    color: gold;
+}
