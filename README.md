@@ -29,4 +29,3 @@ Design Responsivo + Animações
 
 👀 Me conta o que achou! Feedbacks são sempre bem-vindos 😄
 #VueJS #FrontEnd #DesenvolvimentoWeb #Projetos #Cassino #OpenToWork
->>>>>>> 7c3fcc0d3f44f0ab25250931a5f8ac404b39d52b
