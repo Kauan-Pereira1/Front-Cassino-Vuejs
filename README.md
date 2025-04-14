@@ -1,33 +1,32 @@
-# mange-coin
+# Front-Cassino-Vuejs
 
-This template should help get you started developing with Vue 3 in Vite.
+🎰 Apresentando o MangeVegas – meu projeto de cassino feito com Vue.js!
 
-## Recommended IDE Setup
+📦 Desenvolvido como parte de um desafio acadêmico, o MangeVegas simula uma experiência de cassino com:
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+💸 Sistema de tokens com saldo inicial
+🎰 Slot Machine funcional com rotação animada
+🎧 Sons dinâmicos ao ganhar
+💱 Conversão de moedas do jogo (MangeCoin → Tether)
+📈 Cotação de criptomoedas em tempo real via API da CoinGecko
+🖼️ Ícones reais das criptos + interface responsiva e temática
 
-## Type Support for `.vue` Imports in TS
+Além de colocar em prática Vue.js com TypeScript e SCSS, foquei bastante em UX, integração com API externa, e uma estética que remete ao mundo dos jogos online.
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+💻 Foi uma experiência muito rica de front-end, consumo de dados externos e interação com o usuário.
 
-## Customize configuration
+🔧 Tecnologias usadas:
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Vue.js + Vite + Pinia
 
-## Project Setup
+TypeScript
 
-```sh
-npm install
-```
+SCSS
 
-### Compile and Hot-Reload for Development
+CoinGecko API
 
-```sh
-npm run dev
-```
+Design Responsivo + Animações
 
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
+👀 Me conta o que achou! Feedbacks são sempre bem-vindos 😄
+#VueJS #FrontEnd #DesenvolvimentoWeb #Projetos #Cassino #OpenToWork
+>>>>>>> 7c3fcc0d3f44f0ab25250931a5f8ac404b39d52b
